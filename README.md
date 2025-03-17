@@ -47,8 +47,8 @@ The dataset consists of two files:
 
 1. **Clone the Repository:**
    ```bash
-   git clone[ https://github.com/your-username/customer-purchase-prediction.git](https://github.com/VivekBalmiki/Black-Friday-Sales-EDA-and-Feature-Engineering.git)
-   cd customer-purchase-prediction
+   git clone https://github.com/VivekBalmiki/Black-Friday-Sales-EDA-and-Feature-Engineering.git
+   cd Black-Friday-Sales-EDA-and-Feature-Engineering
    ```
 2. **Install Dependencies:**
    ```bash
